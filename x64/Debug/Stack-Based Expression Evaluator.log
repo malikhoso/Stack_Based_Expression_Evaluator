@@ -1,0 +1,103 @@
+﻿  Assembling main.asm...
+SmallWin.inc(10): error A2008: syntax error : .
+SmallWin.inc(11): error A2008: syntax error : .
+SmallWin.inc(12): error A2008: syntax error : .
+SmallWin.inc(299): error A2008: syntax error : ,
+SmallWin.inc(302): error A2008: syntax error : ,
+SmallWin.inc(311): error A2008: syntax error : ,
+SmallWin.inc(314): error A2008: syntax error : ,
+SmallWin.inc(318): error A2008: syntax error : ,
+SmallWin.inc(323): error A2008: syntax error : ,
+SmallWin.inc(332): error A2008: syntax error : ,
+SmallWin.inc(339): error A2008: syntax error : ,
+SmallWin.inc(343): error A2008: syntax error : ,
+SmallWin.inc(347): error A2008: syntax error : ,
+SmallWin.inc(351): error A2008: syntax error : ,
+SmallWin.inc(357): error A2008: syntax error : ,
+SmallWin.inc(362): error A2008: syntax error : ,
+SmallWin.inc(365): error A2008: syntax error : ,
+SmallWin.inc(369): error A2008: syntax error : ,
+SmallWin.inc(372): error A2008: syntax error : ,
+SmallWin.inc(380): error A2008: syntax error : ,
+SmallWin.inc(385): error A2008: syntax error : ,
+SmallWin.inc(390): error A2008: syntax error : ,
+SmallWin.inc(393): error A2008: syntax error : ,
+SmallWin.inc(398): error A2008: syntax error : ,
+SmallWin.inc(403): error A2008: syntax error : ,
+SmallWin.inc(406): error A2008: syntax error : ,
+SmallWin.inc(412): error A2008: syntax error : ,
+SmallWin.inc(418): error A2008: syntax error : ,
+SmallWin.inc(421): error A2008: syntax error : ,
+SmallWin.inc(428): error A2008: syntax error : ,
+SmallWin.inc(434): error A2008: syntax error : ,
+SmallWin.inc(441): error A2008: syntax error : ,
+SmallWin.inc(444): error A2008: syntax error : ,
+SmallWin.inc(448): error A2008: syntax error : ,
+SmallWin.inc(452): error A2008: syntax error : ,
+SmallWin.inc(456): error A2008: syntax error : ,
+SmallWin.inc(460): error A2008: syntax error : ,
+SmallWin.inc(464): error A2008: syntax error : ,
+SmallWin.inc(467): error A2008: syntax error : ,
+SmallWin.inc(472): error A2008: syntax error : ,
+SmallWin.inc(478): error A2008: syntax error : ,
+SmallWin.inc(481): error A2008: syntax error : ,
+SmallWin.inc(484): error A2008: syntax error : ,
+SmallWin.inc(488): error A2008: syntax error : ,
+SmallWin.inc(495): error A2008: syntax error : ,
+SmallWin.inc(502): error A2008: syntax error : ,
+SmallWin.inc(509): error A2008: syntax error : ,
+SmallWin.inc(516): error A2008: syntax error : near
+Irvine32.inc(22): error A2008: syntax error : ,
+Irvine32.inc(66): error A2008: syntax error : ,
+Irvine32.inc(71): error A2008: syntax error : ,
+Irvine32.inc(76): error A2008: syntax error : ,
+Irvine32.inc(82): error A2008: syntax error : ,
+Irvine32.inc(87): error A2008: syntax error : ,
+Irvine32.inc(93): error A2008: syntax error : ,
+Irvine32.inc(99): error A2008: syntax error : ,
+main.asm(171): error A2008: syntax error : PUSHAD
+main.asm(188): error A2008: syntax error : POPAD
+main.asm(214): error A2070: invalid instruction operands
+main.asm(217): error A2070: invalid instruction operands
+main.asm(220): error A2070: invalid instruction operands
+main.asm(223): error A2070: invalid instruction operands
+main.asm(295): error A2008: syntax error : PUSHAD
+main.asm(308): error A2070: invalid instruction operands
+main.asm(309): error A2070: invalid instruction operands
+main.asm(321): error A2070: invalid instruction operands
+main.asm(322): error A2070: invalid instruction operands
+main.asm(327): error A2070: invalid instruction operands
+main.asm(328): error A2070: invalid instruction operands
+main.asm(333): error A2070: invalid instruction operands
+main.asm(334): error A2070: invalid instruction operands
+main.asm(356): error A2070: invalid instruction operands
+main.asm(357): error A2070: invalid instruction operands
+main.asm(360): error A2070: invalid instruction operands
+main.asm(361): error A2070: invalid instruction operands
+main.asm(369): error A2070: invalid instruction operands
+main.asm(370): error A2070: invalid instruction operands
+main.asm(387): error A2070: invalid instruction operands
+main.asm(388): error A2070: invalid instruction operands
+main.asm(391): error A2070: invalid instruction operands
+main.asm(392): error A2070: invalid instruction operands
+main.asm(405): error A2070: invalid instruction operands
+main.asm(416): error A2070: invalid instruction operands
+main.asm(419): error A2070: invalid instruction operands
+main.asm(427): error A2070: invalid instruction operands
+main.asm(428): error A2070: invalid instruction operands
+main.asm(469): error A2070: invalid instruction operands
+main.asm(470): error A2070: invalid instruction operands
+main.asm(474): error A2070: invalid instruction operands
+main.asm(475): error A2070: invalid instruction operands
+main.asm(481): error A2070: invalid instruction operands
+main.asm(482): error A2070: invalid instruction operands
+main.asm(489): error A2008: syntax error : POPAD
+main.asm(495): error A2008: syntax error : POPAD
+main.asm(508): error A2008: syntax error : PUSHAD
+main.asm(631): error A2008: syntax error : POPAD
+main.asm(636): error A2008: syntax error : POPAD
+main.asm(652): error A2070: invalid instruction operands
+main.asm(653): error A2070: invalid instruction operands
+main.asm(672): error A2070: invalid instruction operands
+main.asm(673): fatal error A1012: error count exceeds 100; stopping assembly
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.

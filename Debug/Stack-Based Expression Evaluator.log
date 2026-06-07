@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.obj : warning LNK4258: directive '/ENTRY:main@0' not compatible with switch '/ENTRY:main'; ignored
+  Stack-Based Expression Evaluator.vcxproj -> C:\Users\WINDOWS10\Downloads\Project\Stack-Based Expression Evaluator\Debug\Stack-Based Expression Evaluator.exe
