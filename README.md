@@ -67,24 +67,25 @@ A Stack-Based Expression Evaluator developed in Assembly Language. The program u
 3. The postfix expression is evaluated using another stack.
 4. The final result is displayed to the user.
 
-Technologies Used
+## Technologies Used
 Assembly Language
 MASM
 Visual Studio
 Learning Objectives
 
-This project demonstrates:
+## This project demonstrates:
 
 Stack data structures
 Expression parsing
 Infix-to-postfix conversion algorithms
 Postfix evaluation algorithms
 Assembly Language programming concepts
-Author
+
+## Author
 
 Mohsin Ali & Team 
 
-Course Instructor
+## Course Instructor
 
 Mr. Qaiser Manzoor
 
