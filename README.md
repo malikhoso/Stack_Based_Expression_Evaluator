@@ -67,16 +67,6 @@ A Stack-Based Expression Evaluator developed in Assembly Language. The program u
 3. The postfix expression is evaluated using another stack.
 4. The final result is displayed to the user.
 
-## Example
-
-### Input
-
-```text
-(12 + 8) * 3
-Postfix Conversion
-12 8 + 3 *
-Output
-60
 Technologies Used
 Assembly Language
 MASM
@@ -95,4 +85,19 @@ Author
 Mohsin Ali & Team 
 
 Course Instructor
+
 Mr. Qaiser Manzoor
+
+## Example
+
+### Input
+
+```text
+(12 + 8) * 3
+Postfix Conversion
+12 8 + 3 *
+Output
+60
+
+
+
